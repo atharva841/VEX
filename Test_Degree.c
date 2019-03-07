@@ -1,3 +1,4 @@
+```jsx
 #pragma config(Motor,  port1,           topRight,      tmotorVex393_HBridge, openLoop)
 #pragma config(Motor,  port2,           topLeft,       tmotorVex393_MC29, openLoop, reversed)
 #pragma config(Motor,  port3,           bottomLeft,    tmotorVex393_MC29, openLoop, reversed)
