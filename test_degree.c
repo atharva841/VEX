@@ -55,7 +55,6 @@ task main()
 	forward(50);
 
 	//move back to the original position
-
 	backwards(50);
 	turn_right(90);
 	forward(50);
